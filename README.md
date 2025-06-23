@@ -68,7 +68,7 @@
   </div>
 
   <div class="section">
-    <h2>📬 Contact</h2>
+    <h2> Contact</h2>
     <p>Made by Aman Suthar<br>
     <a href="mailto:amansuthar699@gmail.com">amansuthar6992gmail.com</a> |
     <a href="https://www.linkedin.com/in/aman-suthar-01aa65217/">LinkedIn Profile</a></p>
